@@ -104,12 +104,12 @@
             'dev_requirement' => true,
         ),
         'facade/ignition' => array(
-            'pretty_version' => '2.14.0',
-            'version' => '2.14.0.0',
+            'pretty_version' => '2.14.1',
+            'version' => '2.14.1.0',
             'type' => 'library',
             'install_path' => __DIR__ . '/../facade/ignition',
             'aliases' => array(),
-            'reference' => 'c6126e291bd44ad3fe482537a145fc70e3320598',
+            'reference' => '6d89c4c99537f487ad29f646d57ebf107ef714ed',
             'dev_requirement' => true,
         ),
         'facade/ignition-contracts' => array(
@@ -769,8 +769,8 @@
         'psr/log-implementation' => array(
             'dev_requirement' => false,
             'provided' => array(
-                0 => '1.0.0 || 2.0.0 || 3.0.0',
-                1 => '1.0|2.0',
+                0 => '1.0|2.0',
+                1 => '1.0.0 || 2.0.0 || 3.0.0',
             ),
         ),
         'psr/simple-cache' => array(
